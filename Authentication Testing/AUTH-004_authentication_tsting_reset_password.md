@@ -1,4 +1,4 @@
-# AUTH-0004: Authentication Testing - Reset forgotten password
+# AUTH-004: Authentication Testing - Reset forgotten password
 
 > **Summary:** Ensure that a user can successfully reset their password when they have forgotten it.
 
