@@ -1,4 +1,4 @@
-# AUTH-0002: Authentication Testing - Logging in using Google
+# AUTH-002: Authentication Testing - Logging in using Google
 
 
 > **Summary:** Verify that users can successfully log in using their Google account through OAuth 2.0 and OpenID Connect.
