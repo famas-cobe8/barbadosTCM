@@ -1,4 +1,4 @@
-# MSG-002: Message Test - Customer sends messages
+# MSG-C-002: Message Test - Customer sends messages
  
 > **Summary:** Verify that the customer can send messages and receive replies from the vendor successfully.
 
