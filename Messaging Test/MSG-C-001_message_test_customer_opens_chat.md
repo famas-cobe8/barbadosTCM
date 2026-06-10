@@ -1,4 +1,4 @@
-# MSG-0004: Customer opens chat interface
+# MSG-C-001: Customer opens chat interface
 
 > **Category:** Messaging  
 > **Summary:** Verify that the customer can open the chat interface with a vendor successfully.
