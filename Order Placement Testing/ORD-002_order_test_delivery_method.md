@@ -1,4 +1,4 @@
-# ORD-002: Order Test - Choose method of order (Pickup or Delivery)
+# ORD-002: Order Test - Choose method of order (Delivery)
  
 > **Summary:** Verify that the user can select a preferred method of order before payment.
 
