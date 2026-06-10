@@ -1,4 +1,4 @@
-# NAV-003: Navigation Tabs - Delivery Tab Redirection
+# NAV-002: Navigation Tabs - Delivery Tab Redirection
 
 > **Category:** Navigation Tabs  
 > **Summary:** Verify that clicking the Delivery navigation tab successfully routes the user to the order tracking panel.
