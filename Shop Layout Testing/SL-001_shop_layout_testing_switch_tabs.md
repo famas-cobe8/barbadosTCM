@@ -1,4 +1,4 @@
-# SL-011: Shop Layout Testing - Switch Tabs
+# SL-001: Shop Layout Testing - Switch Tabs
 
 > **Category:** Shop Layout & Menu Interaction  
 > **Summary:** Verify that a customer can toggle between the menu catalog and the customer feedback views using the "Shop" and "Reviews" buttons.
