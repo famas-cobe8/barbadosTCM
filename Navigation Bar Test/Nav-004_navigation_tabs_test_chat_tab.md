@@ -1,5 +1,5 @@
 
-# NAV-005: Navigation Tabs - Chats Tab Redirection
+# NAV-004: Navigation Tabs - Chats Tab Redirection
 
 > **Category:** Navigation Tabs  
 > **Summary:** Verify that clicking the Chats navigation tab successfully routes the user to the message center.
