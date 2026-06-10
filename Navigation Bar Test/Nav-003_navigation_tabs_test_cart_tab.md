@@ -1,4 +1,4 @@
-# NAV-004: Navigation Tabs - Cart Tab Redirection
+# NAV-003: Navigation Tabs - Cart Tab Redirection
 
 > **Category:** Navigation Tabs  
 > **Summary:** Verify that clicking the Cart navigation tab successfully routes the user to the cart dashboard.
