@@ -1,4 +1,4 @@
-# ACC-0002: Account Access Testing - View profile details
+# ACC-002: Account Access Testing - View profile details
 
 > **Summary:** Ensure that a logged-in user can view their own profile details correctly.
 

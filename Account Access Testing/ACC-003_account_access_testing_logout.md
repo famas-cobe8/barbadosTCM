@@ -1,4 +1,4 @@
-# ACC-0003: Logout from active account successfully
+# ACC-003: Logout from active account successfully
 
 
 > **Summary:** Ensure that a logged-in user can log out of their account without errors.

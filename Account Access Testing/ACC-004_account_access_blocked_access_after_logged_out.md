@@ -1,4 +1,4 @@
-# ACC-0004: Blocked access to pages after logged out
+# ACC-004: Blocked access to pages after logged out
 
 > **Summary:** Ensure that users cannot access protected pages after logging out.
 
