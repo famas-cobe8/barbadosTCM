@@ -1,4 +1,4 @@
-# MSG-V-001: Messaging Module – Open Chat Window
+# MSG-V-001: Messaging Test – Vendor Opens Chat Interface
 
 > **Summary:** Verify that the vendor can open a chat window with a customer.
 
