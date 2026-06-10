@@ -1,4 +1,4 @@
-# MSG-003: Message Test - Customer views chat history
+# MSG-C-003: Message Test - Customer views chat history
 
 > **Summary:** Verify that the customer can view previous messages with the vendor.
 
